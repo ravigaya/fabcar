@@ -2,13 +2,13 @@
 var username = document.getElementById('name');
 var pw = document.getElementById('pw');
 
-// storing input from register-form
+// storing input from registerform
 function store() {
     localStorage.setItem('username', username.value);
     localStorage.setItem('pw', pw.value);
 }
 
-// check if stored data from register-form is equal to entered data in the   login-form
+//if stored data from register-form is equal to entered data in the   login-form
 function check() {
 
     // stored data from the register-form
