@@ -1,5 +1,9 @@
 This is simple and beautiful login page to access your favourite car dash board page. 
 fabcar application will give wonderful user experience
+ Your SignUp data is saved in local storage then After login those datas are retrieved back 
+ Concept of session storage and local storage is used in this prokject 
+ Further planning to use it server  
+
  Some of the glimpses of my project can be acess here below:-
  
  
